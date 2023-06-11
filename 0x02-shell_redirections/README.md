@@ -2,9 +2,11 @@
 
 Project completed while studying Full Stack Software Engineering at Holberton School. It intends to teach you how to handle normal input and output in Shell, as well as how to mix commands and filters using redirections.
 
-Technologies
-Scripts written in 5.0.17(1)
-Tested on Ubuntu 20.04 LTS
+# Technologies <br /> 
+* Scripts written in Bash 5.0.17(1)
+* Tested on Ubuntu 20.04 LTS
+
+# Files
 
 All of the following files are scripts:
 
