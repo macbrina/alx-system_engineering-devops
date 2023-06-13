@@ -4,7 +4,7 @@ Project done during Full Stack Software Engineering studies at Holberton School.
 
 # Technologies
 * Scripts written in Bash 5.0.17(1)
-* Tested on Ubuntu 14.04 LTS
+* Tested on Ubuntu 20.04 LTS
 
 # Files
 
