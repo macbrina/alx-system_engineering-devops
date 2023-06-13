@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lt | sed -n '2,11p' | cut -d ' ' -f 10- 
+ls -t | head 
